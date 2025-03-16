@@ -28,3 +28,6 @@ The following models are used:
 - Decision Tree
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
+
+### Author
+[R.L.Sriyutha]https://github.com/Sriyutha-R-L
